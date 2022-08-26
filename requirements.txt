@@ -1,0 +1,5 @@
+modbus_tk==1.1.2
+numpy==1.19.5
+opencv_python==4.6.0.66
+psutil==5.9.1
+pyserial==3.5
