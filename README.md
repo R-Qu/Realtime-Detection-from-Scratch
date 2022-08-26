@@ -26,5 +26,5 @@ Run: ```gnome-tweaks``` and turn OFF "Suspend when laptop lid is closed"
 
 ### Auto execute python scripts when system boots
 1. Run: ```gnome-session-properties```<br>
-2. Add Command: ```gnome-terminal -x python3 /home/tech5/Desktop/humidity/scripts/main.py ```<br>
+2. Add Command: ```gnome-terminal -x python3 xxx.py ```<br>
 
